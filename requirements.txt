@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymupdf
+pydantic>=2
+openpyxl
+Pillow
